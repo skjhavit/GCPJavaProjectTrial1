@@ -51,8 +51,8 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <version>1.4.4.RELEASE</version>
       <scope>test</scope>
-    </dependency>
-  </dependencies>-->
+    </dependency> -->
+  </dependencies>
 
   <build>
     <plugins>
